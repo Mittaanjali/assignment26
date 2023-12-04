@@ -1,0 +1,14 @@
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.AssemblyInfoInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.AssemblyInfo.cs
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\bin\Debug\net6.0\Assignment26.exe
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\bin\Debug\net6.0\Assignment26.deps.json
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\bin\Debug\net6.0\Assignment26.runtimeconfig.json
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\bin\Debug\net6.0\Assignment26.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\bin\Debug\net6.0\Assignment26.pdb
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\refint\Assignment26.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.pdb
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\Assignment26.genruntimeconfig.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\day21\Assignment26\Assignment26\obj\Debug\net6.0\ref\Assignment26.dll
